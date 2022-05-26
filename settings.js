@@ -19,20 +19,20 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['9476298351']
-global.premium = ['9476298351']
-global.ownernomer = '9476298351'
+global.owner = ['447520629510']
+global.premium = ['447520629510']
+global.ownernomer = '447520629510'
 global.ownername = 'Vihanga - Md🥀'
 global.botname = 'Vihanga md🥀'
-global.footer = 'Vihanga Md'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
+global.footer = 'Vihanga Md🥀'
+global.ig = 'https://github.com/vihangabot'
+global.region = 'Srilanka,western,colombo'
+global.sc = 'https://github.com/vihangabot/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
 global.packname = 'Vihanga '
-global.author = 'Yt'
+global.author = 'Md🥀'
 global.sessionName = 'session'
-global.prefa = ['','!','.','😁','🤩','🗿']
+global.prefa = ['','!','.','💃','🥀','🕺']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
